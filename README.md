@@ -83,7 +83,7 @@ The contents of this repository are licensed under the MIT License. For more det
 
 Feel free to use the code and resources in this repository for personal learning, educational purposes, or any non-commercial projects. However, please note that the Fourth IT company holds no responsibility for any issues or damages that may arise from the use of this material.
 
-If you have any questions or concerns regarding the licensing or usage of the code in this repository, please contact us at [contact@fourthit.com](mailto:contact@fourthit.com).
+If you have any questions or concerns regarding the licensing or usage of the code in this repository, please contact us at [christsanctus.com](mailto:chineduchristsanctus020@gmail.com).
 
 Happy coding!
 
