@@ -20,7 +20,7 @@ To get started with the class materials, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```shell
-   git clone https://github.com/your-username/fourth-it-python-class.git
+   git clone [https://github.com/your-username/fourth-it-python-class.git](https://github.com/sherlockholms221B/IT-python-class/tree/main)
 
 2. Install Python: Make sure you have Python installed on your machine. You can download the latest version of Python from the official website: [python.org](https://www.python.org/).
 
